@@ -36,7 +36,6 @@ You can find the related project repository on my GitHub for more details on the
 
 ## CERTIFICATIONS
 
-- **Power BI** - PwC Switzerland (Jan 2024)
 - **Data Visualisation: Empowering Business with Effective Insights Job Simulation** - Tata Group (Jan 2025)
 - **Microsoft Certified: Azure Data Scientist Associate (DP-100)**- Microsoft (Jan 2022)
 - **Microsoft Certified: Power Platform fundamentals (PL-900)** - Microsoft (Feb 2022)
